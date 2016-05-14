@@ -1,14 +1,12 @@
 body{
   font-family: Serif, Tahoma, Verdana, sans-serif;
   text-align: center;
+  margin: auto;
 }
 img{
   height: 100px;
   width: 100px;
   margin: auto;
-}
-body{
-   margin: auto
 }
 table{
   margin: auto;

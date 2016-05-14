@@ -1,10 +1,17 @@
 body{
   font-family: Serif, Tahoma, Verdana, sans-serif;
+  text-align: center;
 }
 img{
   height: 100px;
   width: 100px;
+  margin: auto;
 }
 body{
    margin: auto
+}
+table{
+  margin: auto;
+  border: #001a00 1px;
+  color:#00cc00;
 }
